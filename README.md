@@ -1,0 +1,1 @@
+The Boundary Controlled Signal Jammer is a circuit-based project designed to block signals within a defined area using an LDR (Light Dependent Resistor). The system detects ambient light levels to activate or deactivate the jamming mechanism, ensuring controlled interference only within a specified boundary.
